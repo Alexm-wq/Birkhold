@@ -1,0 +1,7 @@
+title: Birkhold
+description: Geschichten eines jungen Ents, der auf einer Insel erwachte und wissen will, was hinter dem Horizont liegt.
+lang: de
+theme: minima
+author: Birkhold
+minima:
+  date_format: "%-d. %B %Y"
