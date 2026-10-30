@@ -4,4 +4,6 @@ lang: de
 theme: minima
 author: Birkhold
 minima:
-  date_format: "%-d. %B %Y"
+  date_format: "%-d.%-m.%Y"
+# Beiträge mit Datum nach dem heutigen Tag sofort zeigen (die Spielwelt schreibt Daten voraus)
+future: true
